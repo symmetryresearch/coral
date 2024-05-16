@@ -1,0 +1,4 @@
+(executable
+ (public_name coral)
+ (name main)
+ (libraries coral))
